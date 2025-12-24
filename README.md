@@ -1,16 +1,23 @@
-# habit
+# 📆 Quick Habit Tracker
 
-A new Flutter project.
+A clean and modern **Habit Tracking App** built with **Flutter** that helps users build better routines and stay consistent with their daily habits.
 
-## Getting Started
+The app focuses on simplicity, smooth animations, and a beautiful neumorphic UI experience.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Create and manage daily habits
+- 📊 Track daily progress with percentage indicator
+- 🔁 Toggle habits as done / undone
+- 🌗 Light & Dark theme support
+- 🎨 Neumorphic UI design
+- 📅 Friendly date & greeting messages
+- ⚡ Smooth animations & transitions
+- 🧠 Clean state management using Provider
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+![alt text](image-3.png)
